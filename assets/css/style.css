@@ -85,6 +85,24 @@ p {
     margin-left: 20px;
 }
 
+.feature-content-style {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.feature-content-style img {
+    max-height: 200px;
+}
+
+.feature-content-style h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* MAIN CONTENT END */
 
 /* BENEFIT ASIDE START */
@@ -117,28 +135,6 @@ p {
 }
 
 /* BENEFIT ASIDE END    */
-
-/* MAIN CONTENT STYLE CONTINUED START */
-
-.feature-content-style {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.feature-content-style img {
-    max-height: 200px;
-}
-
-.feature-content-style h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* MAIN CONTENT STYLE CONTINUED END */
 
 /* FOOTER STYLE START */
 
